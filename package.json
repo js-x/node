@@ -1,0 +1,8 @@
+{
+  "name": "@js-x/node",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/node": "^11.13.4",
+    "typescript": "^3.4.3"
+  }
+}
